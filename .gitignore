@@ -1,0 +1,10 @@
+.env
+data/
+*.sqlite
+*.sqlite3
+*.db
+*.tmp
+__pycache__/
+*.pyc
+test-output/
+helpline-register.zip
