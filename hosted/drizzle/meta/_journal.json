@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793105940070,
+      "tag": "0000_hesitant_maria_hill",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793105942350,
+      "tag": "0001_record_locks",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1793178173999,
+      "tag": "0002_flat_jane_foster",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1793178175588,
+      "tag": "0003_admin_helpline_permissions",
+      "breakpoints": true
+    }
+  ]
+}
